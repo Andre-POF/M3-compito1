@@ -1,0 +1,47 @@
+h1 {
+    background-color: yellow;
+}
+
+nav.nav > span:nth-child(even) {
+    background-color: violet;
+}
+
+/* div.jumbotron div.col-md-6  */
+
+a.font-weight-bold {
+    background-color: turquoise;
+}
+
+div.blog-post:first-of-type {
+   background-color: bisque; 
+}
+
+
+div.blog-post:first-of-type hr {
+    border-color: red;
+}
+
+ol.list-unstyled.mb-0 > li {
+    background-color: bisque;
+}
+
+div.col-md-8.blog-main div.blog-post:nth-of-type(2) p.blog-post-meta a{
+    background-color: brown;
+}
+
+div.col-md-8.blog-main div.blog-post:nth-of-type(3) ul li:nth-last-of-type(2){
+ background-color: aqua;
+}
+
+
+a.float-right.mb-3.mr-3 {
+    background-color: cadetblue;
+}
+
+nav.blog-pagination a.btn.btn-outline-secondary{
+    background-color: rgb(52, 111, 48);
+}
+
+a[href="https://twitter.com/mdo"] {
+    background-color: thistle;
+}
